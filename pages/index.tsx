@@ -44,7 +44,7 @@ export default function Home({ posts, aside }: any) {
   return (
     <div>
       <Head>
-        <title>Next JS Social Network</title>
+        <title>Social Network</title>
         <meta
           name='description'
           content='A Next JS social network prototype built with Tailwind CSS, Daisy UI and Prisma.'
